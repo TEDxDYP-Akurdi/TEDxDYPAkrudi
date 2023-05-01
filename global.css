@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sans-serif-collection: "Sans Serif Collection";
+  --sf-subheadline-semibold: "SF Pro Text";
+
+  /* font sizes */
+  --sf-subheadline-semibold-size: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+}

@@ -1,0 +1,48 @@
+.home-page-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 400px;
+  height: 195.29px;
+  object-fit: cover;
+}
+.text-1,
+.welcome-to-tedxdypakurdi {
+  position: absolute;
+  letter-spacing: -0.24px;
+}
+.text-1 {
+  top: 268px;
+  left: 107px;
+  line-height: 20px;
+  font-weight: 600;
+}
+.welcome-to-tedxdypakurdi {
+  top: 140px;
+  left: 12px;
+  font-size: 30px;
+  line-height: 35px;
+  font-family: var(--font-sans-serif-collection);
+  text-align: left;
+  display: inline-block;
+  width: 363px;
+}
+.scan-to-win-1 {
+  position: absolute;
+  top: 201px;
+  left: 137px;
+  width: 250px;
+  height: 176.76px;
+  object-fit: cover;
+}
+.home-page {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--sf-subheadline-semibold-size);
+  color: var(--color-white);
+  font-family: var(--sf-subheadline-semibold);
+}
