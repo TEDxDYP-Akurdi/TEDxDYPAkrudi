@@ -1,2 +1,2 @@
-# TEDxDYPAkrudi
+# TEDxDYPAkurdi
 Dr. D Y 
